@@ -5,7 +5,7 @@ inputs:
     description: 'Instance ID'
     required: true
   aws-region:
-    description: 'Instance's region'
+    description: 'Instance region'
     required: true
 runs:
   using: 'node12'
